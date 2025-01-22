@@ -4,3 +4,4 @@ provider "aws" {
      tags = {
        Name = "aws"
      }
+}
